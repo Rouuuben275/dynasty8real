@@ -1,0 +1,27 @@
+{
+  "name": "dynasty8-newwave",
+  "version": "1.0.0",
+  "description": "Site web de l'agence immobilière Dynasty 8 pour le serveur FiveM NewWave",
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'This is a Figma Make project - run in Figma Make environment'",
+    "build": "echo 'No build step required - static site'",
+    "preview": "echo 'Preview in Figma Make'"
+  },
+  "keywords": [
+    "fivem",
+    "real-estate",
+    "dynasty8",
+    "newwave"
+  ],
+  "author": "Dynasty 8",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
